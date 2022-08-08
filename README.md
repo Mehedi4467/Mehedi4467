@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Mehedi Hassan</h1>
 <h3 align="center">A passionate MERN stack Developer from Bangladesh</h3>
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' align="right" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi4467&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi4467" /> </p>
 
@@ -8,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Shop in Shop
-](https: //www.shopinshop.com.bd/)
+- 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
 - 🌱 I’m currently learning **node js, React js, Python**
 
-- 👯 I’m looking to collaborate on [DIURC
-](https: //diurc.daffodilvarsity.edu.bd/)
+- 👯 I’m looking to collaborate on [DIURC](https://diurc.daffodilvarsity.edu.bd/)
 
-- 👨‍💻 All of my projects are available at [https: //mellow-bublanina-8fa820.netlify.app/#home](https://mellow-bublanina-8fa820.netlify.app/#home)
+- 👨‍💻 All of my projects are available at [https://mellow-bublanina-8fa820.netlify.app/#home](https://mellow-bublanina-8fa820.netlify.app/#home)
 
 - 💬 Ask me about **react, Express, javaScript**
 
 - 📫 How to reach me **mehedihassan4467@gmail.com**
 
-- 📄 Know about my experiences [https: //drive.google.com/file/d/11Pesw8GRfM5w0JBNSlL1z1sMLu7X9HtM/view?usp=sharing](https://drive.google.com/file/d/11Pesw8GRfM5w0JBNSlL1z1sMLu7X9HtM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Pesw8GRfM5w0JBNSlL1z1sMLu7X9HtM/view?usp=sharing](https://drive.google.com/file/d/11Pesw8GRfM5w0JBNSlL1z1sMLu7X9HtM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
