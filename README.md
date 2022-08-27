@@ -38,5 +38,5 @@
 
 <p>&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=mehedi4467&show_icons=true&locale=en" alt="mehedi4467" /></p>
 
-<p><img align="center" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" /></p>
+<p><img align="right" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" /></p>
 
