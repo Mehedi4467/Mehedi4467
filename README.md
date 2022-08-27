@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://mehedihassan.netlify.app" target="_blank">Md.Mehedi Hassan</a></h1>
-<h3 align="center">A passionate MERN stack Developer from Bangladesh</h3>
+<h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 <br/>
 <!-- <p align="center"> <a href="https://twitter.com/mehedi4467" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mehedi4467"/></a> </p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi4467&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi4467" /> </p> -->
