@@ -171,7 +171,7 @@
 <br>
 
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi4467&show_icons=true&locale=en" alt="mehedi4467" /></p>
+
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi4467&show_icons=true&locale=en&layout=compact" alt="mehedi4467" /></p>
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" /></p>
