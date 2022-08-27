@@ -39,13 +39,10 @@
 :e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
 
 :globe_with_meridians: <a href="https://mehedihassan.netlify.app">Checkout my website</a>
-<br>
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
-<br/>
-
 
 > Tools, languages, and other things that I like to work with.
-
 
 <table>
   <tr>
