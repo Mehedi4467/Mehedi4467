@@ -195,13 +195,7 @@
       </a>
       <br>Typescript
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="TypeScript" />
       </a>
@@ -209,9 +203,16 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>JavaScript
+      <br>Python
+    </td>
+   
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
