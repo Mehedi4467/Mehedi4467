@@ -38,4 +38,16 @@
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi4467&show_icons=true&locale=en&layout=compact" alt="mehedi4467" /></p>
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" /></p>
+<br/>
+## Contact me :speech_balloon:
+
+Get in touch wit me!
+
+:bird: <a href="https://twitter.com/d_koppenhagen">Chat with me on Twitter</a>
+
+:e-mail: <a href="mailto:mail@k9n.dev">Send an e-mail</a>
+
+:globe_with_meridians: <a href="https://k9n.dev">Checkout my website</a>
+
+:memo: <a href="https://k9n.dev/blog">Checkout my blog</a>
 
