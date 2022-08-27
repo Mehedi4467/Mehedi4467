@@ -31,8 +31,13 @@
 <a href="https://fb.com/mehedi44467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi44467" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
+:e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
+
+:globe_with_meridians: <a href="https://mehedihassan.netlify.app">Checkout my website</a>
+
+<h3 align="left">Languages and Tools:</h3>
+<br/>
 
 
 > Tools, languages, and other things that I like to work with.
@@ -157,23 +162,12 @@
 
 
 
-
-
-
-
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi4467&show_icons=true&locale=en" alt="mehedi4467" /></p>
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi4467&show_icons=true&locale=en&layout=compact" alt="mehedi4467" /></p>
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" /></p>
-<br/>
-## Contact me :speech_balloon:
 
-Get in touch wit me!
-
-:e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
-
-:globe_with_meridians: <a href="https://mehedihassan.netlify.app">Checkout my website</a>
 
 
 
