@@ -6,8 +6,8 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi4467" alt="mehedi4467" /></a> </p> -->
 
- <img display="inline" src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
-<div display="inline">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+<div align="right">
  
   
   [![Mehedi Hassan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14487085)](https://stackoverflow.com/users/14487085/mehedi-hassan)
