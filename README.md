@@ -173,8 +173,8 @@
 <br/>
 
 <div align="center">
-<p><img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi4467&show_icons=true&locale=en&layout=compact" alt="mehedi4467" /></p>
-<p><img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" /></p>
+<img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi4467&show_icons=true&locale=en&layout=compact" alt="mehedi4467" />
+<img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi4467&" alt="mehedi4467" />
 
 </div>
 
