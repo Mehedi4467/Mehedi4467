@@ -43,11 +43,8 @@
 
 Get in touch wit me!
 
-:bird: <a href="https://twitter.com/d_koppenhagen">Chat with me on Twitter</a>
+:e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
 
-:e-mail: <a href="mailto:mail@k9n.dev">Send an e-mail</a>
+:globe_with_meridians: <a href="https://mehedihassan.netlify.app">Checkout my website</a>
 
-:globe_with_meridians: <a href="https://k9n.dev">Checkout my website</a>
-
-:memo: <a href="https://k9n.dev/blog">Checkout my blog</a>
 
