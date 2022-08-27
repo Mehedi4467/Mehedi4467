@@ -178,26 +178,23 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Javascript" />
+      <a href="#macropower-tech">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>JavaScript
+      <br>C#&nbsp;(Core)
     </td>
-    
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node Js" />
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Node JS
+      <br>Python
     </td>
-    
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Typescript
+      <br>Go
     </td>
-    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
@@ -292,7 +289,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
