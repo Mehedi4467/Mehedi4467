@@ -164,21 +164,13 @@
 
 
 <!-- emni -->
- <td align="center"  width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> </a>
-      <br>Javascript
-    </td>
-    
-      <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> </a>
-      <br>Nodejs
-    </td>
+
     
     
-    <td align="center" width="96">
-       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> </a>
-      <br>Typescript
-    </td>
+    
+  
+    
+    
 <!-- emni ses -->
 
 
@@ -191,18 +183,21 @@
       </a>
       <br>JavaScript
     </td>
+    
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="https://nodejs.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node Js" />
       </a>
-      <br>Python
+      <br>Node JS
     </td>
+    
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Go
+      <br>Typescript
     </td>
+    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
