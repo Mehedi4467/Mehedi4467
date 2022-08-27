@@ -37,6 +37,259 @@
 
 > Tools, languages, and other things that I like to work with.
 
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongodb" />
+      </a>
+      <br>Mongodb
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chartjs" />
+      </a>
+      <br>Chart JS
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="48" height="48" alt="XD" />
+      </a>
+      <br>XD
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongodb" />
+      </a>
+      <br>Mongodb
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chartjs" />
+      </a>
+      <br>Chart JS
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="48" height="48" alt="XD" />
+      </a>
+      <br>XD
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+  </tr>
+</table>
+
+
+
 <table>
   <tr>
        <td align="center"  width="96">
@@ -172,124 +425,6 @@
     
     
 <!-- emni ses -->
-
-
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongodb" />
-      </a>
-      <br>Mongodb
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chartjs" />
-      </a>
-      <br>Chart JS
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="48" height="48" alt="XD" />
-      </a>
-      <br>XD
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-  </tr>
-</table>
-
 
 
 <br/>
