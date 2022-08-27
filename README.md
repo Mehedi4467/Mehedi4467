@@ -10,8 +10,7 @@
   [![Mehedi Hassan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14487085)](https://stackoverflow.com/users/14487085/mehedi-hassan)
   </div>
 
-
-
+<br>
 
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
@@ -28,7 +27,7 @@
 - 📫 How to reach me **mehedihassan4467@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing)
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehedi4467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedi4467" height="30" width="40" /></a>
@@ -40,7 +39,7 @@
 :e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
 
 :globe_with_meridians: <a href="https://mehedihassan.netlify.app">Checkout my website</a>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 
@@ -165,7 +164,7 @@
 
 
 
-
+<br>
 
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi4467&show_icons=true&locale=en" alt="mehedi4467" /></p>
