@@ -178,21 +178,21 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>JavaScript
     </td>
     
     <td align="center" width="96">
-      <a href="https://nodejs.org">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node Js" />
       </a>
       <br>Node JS
     </td>
     
     <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Typescript
