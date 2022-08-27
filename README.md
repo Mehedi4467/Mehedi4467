@@ -7,7 +7,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi4467" alt="mehedi4467" /></a> </p> -->
 <div align="center">
 <div align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehedi4467&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
   </div>
  
 <div align="center">
