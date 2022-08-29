@@ -46,7 +46,7 @@
 <a href="https://linkedin.com/in/mehedi-hassan-6b53b41b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hassan-6b53b41b8" height="30" width="40" /></a>
 <a href="https://fb.com/mehedi44467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi44467" height="30" width="40" /></a>
 </p>
- <img style="margin-top: -30px;" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+ 
 
 :e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
 
