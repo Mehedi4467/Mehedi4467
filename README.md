@@ -38,13 +38,10 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
  
+ <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
+ 
  </div>
  
-
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
- 
-
-
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
