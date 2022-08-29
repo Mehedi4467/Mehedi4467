@@ -19,6 +19,11 @@
 
 <br>
 
+<div align="right">
+ <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+ 
+ </div>
+
 <div align="left">
  
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
@@ -40,10 +45,7 @@
 </div>
 
 
-<div align="right">
- <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
- 
- </div>
+
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
