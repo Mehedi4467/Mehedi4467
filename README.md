@@ -21,12 +21,9 @@
 
 <div float="left">
  
- <div align="right">
+
  <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
  
- </div>
-
-<div width='400' align="left">
  
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
@@ -44,7 +41,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
  
-</div>
+
 
  
  </div>
