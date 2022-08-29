@@ -19,7 +19,9 @@
 
 <br>
 
-<div align="right">
+<div>
+ 
+ <div align="right">
  <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
  
  </div>
@@ -44,6 +46,8 @@
  
 </div>
 
+ 
+ </div>
 
 
 <br><br>
