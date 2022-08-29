@@ -37,8 +37,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
  
  
-
-
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
