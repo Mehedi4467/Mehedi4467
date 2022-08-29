@@ -19,11 +19,6 @@
 
 <br>
 
-<div float="left">
- 
-
- <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
- 
  
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
@@ -42,9 +37,9 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
  
 
-
+<img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
  
- </div>
+
 
 
 <br><br>
