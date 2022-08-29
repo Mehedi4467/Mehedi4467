@@ -19,6 +19,7 @@
 
 <br>
 
+<div>
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
 - 🌱 I’m currently learning **Python, Typescript**
@@ -26,14 +27,15 @@
 - 👯 I’m looking to collaborate on [Daffodil Robotics Club](https://diurc.daffodilvarsity.edu.bd/)
 
 - 🤝 I’m looking for help with [Farmicobd](https://www.farmicobd.com/)
-
-- 👨‍💻 All of my projects are available at [https://mehedihassan.netlify.app](https://mehedihassan.netlify.app)
+<!-- https://mehedihassan.netlify.app -->
+- 👨‍💻 All of my projects are available at [Gitshowcase](gitshowcase.com/mehedi4467)
 
 - 💬 Ask me about **React, Express, JavaScript, node js,**
 
 - 📫 How to reach me **mehedihassan4467@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
+</div>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 <br><br>
