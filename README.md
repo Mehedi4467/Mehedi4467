@@ -26,7 +26,7 @@
  
  </div>
 
-<div align="left">
+<div width='400' align="left">
  
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
