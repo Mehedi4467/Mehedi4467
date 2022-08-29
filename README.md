@@ -19,8 +19,6 @@
 
 <br>
 
-<div align="left" width='400'>
- 
   
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
@@ -39,13 +37,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
  
  
- 
- </div>
- <div align="right">
- 
- <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
- 
- </div>
+
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
@@ -54,7 +46,7 @@
 <a href="https://linkedin.com/in/mehedi-hassan-6b53b41b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hassan-6b53b41b8" height="30" width="40" /></a>
 <a href="https://fb.com/mehedi44467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedi44467" height="30" width="40" /></a>
 </p>
-
+ <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 :e-mail: <a href="mailto:mehedihassan4467@gmail.com">Send an e-mail</a>
 
