@@ -19,7 +19,9 @@
 
 <br>
 
+<div align="left">
  
+  
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
 
 - 🌱 I’m currently learning **Python, Typescript**
@@ -36,8 +38,10 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DeAFnlbGBGLKWHXB01TcXhPOPU3cx0HE/view?usp=sharing) 
  
+ </div>
+ 
 
-<img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
  
 
 
