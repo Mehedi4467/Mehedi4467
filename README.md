@@ -19,7 +19,7 @@
 
 <br>
 
-<div>
+<div float="left">
  
  <div align="right">
  <img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
