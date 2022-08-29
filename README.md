@@ -19,7 +19,7 @@
 
 <br>
 
-<div align="left">
+<div align="left" width='400'>
  
   
 - 🔭 I’m currently working on [Shop in Shop](https://www.shopinshop.com.bd/)
