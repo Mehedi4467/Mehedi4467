@@ -40,7 +40,10 @@
 </div>
 
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+<div align="right">
+ <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+ 
+ </div>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
