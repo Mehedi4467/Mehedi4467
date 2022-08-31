@@ -28,7 +28,7 @@
 
 - 🤝 I’m looking for help with [Farmicobd](https://www.farmicobd.com/)
 <!-- https://mehedihassan.netlify.app -->
-- 👨‍💻 All of my projects are available at [Gitshowcase](gitshowcase.com/mehedi4467)
+- 👨‍💻 All of my projects are available at [Gitshowcase](https://www.gitshowcase.com/mehedi4467)
 
 - 💬 Ask me about **React, Express, JavaScript, node js,**
 
